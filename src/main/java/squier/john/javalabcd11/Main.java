@@ -5,7 +5,6 @@ package squier.john.javalabcd11;
  */
 public class Main {
 
-
     public static void main(String[] args) {
         InputPrompter prompter = new InputPrompter();
         AliceBobChecker checker = new AliceBobChecker();

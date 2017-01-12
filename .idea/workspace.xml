@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ef0cb5f-9b93-4198-a909-9f6c204951ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/squier/john/javalabcd11/AliceBobChecker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/squier/john/javalabcd11/InputPrompter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/squier/john/javalabcd11/AliceBobCheckerTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FroilanLab2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/AliceBobChecker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/InputPrompter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/squier/john/javalabcd11/AliceBobCheckerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/Main.java" afterPath="$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AliceBobChecker.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AliceBobChecker.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/AliceBobChecker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
@@ -68,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,9 +93,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/squier/john/javalabcd11/AliceBobCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/InputPrompter.java" />
         <option value="$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/AliceBobChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/Main.java" />
       </list>
     </option>
   </component>
@@ -665,7 +648,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484257391370</updated>
-      <workItem from="1484257395715" duration="3797000" />
+      <workItem from="1484257395715" duration="3897000" />
     </task>
     <servers />
   </component>
@@ -681,7 +664,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3797000" />
+    <option name="totallyTimeSpent" value="3897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -751,14 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/InputPrompter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -771,6 +746,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/squier/john/javalabcd11/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
